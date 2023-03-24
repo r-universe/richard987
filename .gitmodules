@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "featurefinder"]
+	path = featurefinder
+	url = https://github.com/cran/featurefinder
+	shallow = true
+	registered = true
